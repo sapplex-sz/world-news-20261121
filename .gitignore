@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+notes/
+rules/
+*.pyc
+/tmp/
+kit/
